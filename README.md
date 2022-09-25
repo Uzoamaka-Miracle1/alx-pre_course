@@ -1,1 +1,1 @@
-5xy321
+The readme for alx-pre_course directory
